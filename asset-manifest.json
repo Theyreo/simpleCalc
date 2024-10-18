@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Theyreo/simpleCalc.git/static/css/main.965785b6.css",
+    "main.js": "/Theyreo/simpleCalc.git/static/js/main.d511f9bf.js",
+    "index.html": "/Theyreo/simpleCalc.git/index.html",
+    "main.965785b6.css.map": "/Theyreo/simpleCalc.git/static/css/main.965785b6.css.map",
+    "main.d511f9bf.js.map": "/Theyreo/simpleCalc.git/static/js/main.d511f9bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.965785b6.css",
+    "static/js/main.d511f9bf.js"
+  ]
+}
